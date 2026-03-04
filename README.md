@@ -1,16 +1,15 @@
 # ctf-DCG91422
 DEFCON COIMBATORE CAPTURE THE FLAG OFFICIAL RULES &amp; REGULATIONS 2026 
 
-DEFCON COIMBATORE
-CAPTURE THE FLAG
-OFFICIAL RULES & REGULATIONS
 Sponsored by NERDS LAB	Sponsored by OWASP SREC
 
 These Rules and Regulations govern all participants of the DEFCON CTF event. By registering or participating, you acknowledge that you have read, understood, and agreed to abide by every rule listed herein. Ignorance of a rule is not a valid defense. Violations may result in immediate disqualification, score forfeiture, and/or a permanent ban from future events.
 
 Registration link: https://forms.gle/gmqJkDqt8EiVs5E37
+
 ELIGIBILITY & REGISTRATION
-1.	Open Participation. This CTF is open to all skill levels — students, professionals, and enthusiasts alike. Participants of all backgrounds are welcome.
+
+1.	Open Participation. This CTF is open to all skill levels - students, professionals, and enthusiasts alike. Participants of all backgrounds are welcome.
 2.	One Account Per Person. Each team member may register and operate only one account. 
 3.	Accurate Registration. All registration information submitted must be accurate and truthful. Falsified names, institutional affiliations, or contact details are grounds for disqualification.
 4.	Organizer Ineligibility. Event organizers, challenge authors and anyone else involved in the creation of the competition are not allowed to participate.
@@ -31,5 +30,7 @@ ELIGIBILITY & REGISTRATION
 19.	Recording & Streaming. The organizers reserve the right to record, stream, or broadcast competition activity and participant usernames. Participants consent to this upon registration.
 20.	Liability Waiver. DEFCON Coimbatore, nerdsLab or OWASP SREC are not liable for any damages, losses, or legal consequences arising from a participant's actions during or after the CTF.
 21.	Rule Amendments. The organizers reserve the right to amend, add, or remove rules at any time. Material changes will be announced through official channels and take effect immediately upon announcement.
+    
 ACKNOWLEDGEMENT
+
 By completing registration for DEFCON CTF, you explicitly confirm that you have read and fully understood these Rules and Regulations, that you agree to be bound by them for the duration of the competition and thereafter where applicable, and that you consent to the organizers' authority to enforce them as described herein.
